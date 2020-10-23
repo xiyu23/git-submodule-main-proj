@@ -1,0 +1,3 @@
+[submodule "git-submodule-tools"]
+	path = git-submodule-tools
+	url = ../git-submodule-tools.git
